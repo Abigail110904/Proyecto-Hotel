@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Hotel_el_Sol", "Proyecto_Hotel_el_Sol\Proyecto_Hotel_el_Sol.csproj", "{F6A82F10-DF20-4C22-958E-F0C92F67DA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A82F10-DF20-4C22-958E-F0C92F67DA47}.Debug|x86.ActiveCfg = Debug|x86
+		{F6A82F10-DF20-4C22-958E-F0C92F67DA47}.Debug|x86.Build.0 = Debug|x86
+		{F6A82F10-DF20-4C22-958E-F0C92F67DA47}.Release|x86.ActiveCfg = Release|x86
+		{F6A82F10-DF20-4C22-958E-F0C92F67DA47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
